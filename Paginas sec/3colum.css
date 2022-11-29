@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+  }
+/*INICIO*/
+.one-third {
+    width: 31.5%;
+    float: left;
+    padding: 10px;
+    text-align: center;
+  }
+
+.one-third-padding {
+    width: 29%;
+    float: left;
+    margin: 2% 2%;
+  }
